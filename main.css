@@ -14,6 +14,15 @@ body {
   padding: 12px;
 }
 
+.hero{
+  background-color: #1f2937;
+  color: #F9FAF8;
+}
+
+.hero p{
+  color: #e5e7eb;
+}
+
 .logo {
   max-width: 50px;
   max-height: 50px;
