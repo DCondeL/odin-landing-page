@@ -2,6 +2,9 @@ body{
     font-family: Roboto, 'Courier New', Courier, monospace;
     color: white;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .header{
@@ -21,6 +24,7 @@ ul{
     list-style-type: none;
     padding: 0;
     display: flex;
+    gap: 18px;
 }
 
 a{
