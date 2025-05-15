@@ -1,33 +1,33 @@
-body{
-    font-family: Roboto, 'Courier New', Courier, monospace;
-    color: white;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+body {
+  font-family: Roboto, "Courier New", Courier, monospace;
+  color: white;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-.header{
-    background-color: #1F2937;
-    display: flex;
-    justify-content: space-around;
-    padding: 12px;
+.header {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
 }
 
-.logo{
-    max-width: 50px;
-    max-height: 50px;
-    flex-shrink: 0;
+.logo {
+  max-width: 50px;
+  max-height: 50px;
+  flex-shrink: 0;
 }
 
-ul{
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    gap: 18px;
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 18px;
 }
 
-a{
-    text-decoration: none;
-    color: #e5e7eb;
+a {
+  text-decoration: none;
+  color: #e5e7eb;
 }
