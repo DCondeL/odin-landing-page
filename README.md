@@ -21,12 +21,3 @@ This project is a **landing page** built using **HTML5** and **CSS3**, created a
 
 - Design provided via: https://www.theodinproject.com/
 > **Note**: This is a non-commercial, educational project only.
-
-## 🧱 Folder Structure
-
-landing-page/
-├── index.html
-├── /assets
-│   ├── /images
-├── main.css
-└── README.md
