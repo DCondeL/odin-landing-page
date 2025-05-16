@@ -27,7 +27,7 @@ p {
 
 .container {
   background-color: #1f2937;
-  padding: 0px 300px;
+  padding: 0px 550px;
 }
 
 .header {
@@ -40,18 +40,13 @@ p {
 .hero {
   color: #f9faf8;
   display: flex;
+  justify-content: space-between;
   padding: 112px 0px;
   gap: 48px;
 }
 
-.hero div{
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 auto;
-}
-
 .hero img {
-  width: 500px;
+  width: 450px;
   height: 250px;
 }
 
