@@ -43,7 +43,7 @@ h1{
 
 .container {
   background-color: #1f2937;
-  padding: 0px 550px;
+  padding: 0px 450px;
 }
 
 .header {
@@ -74,7 +74,7 @@ h1{
   align-items: center;
   background-color: gray;
   min-height: 150px;
-  max-height: 150px;
+  max-height: 250px;
 }
 
 .img-container img {
