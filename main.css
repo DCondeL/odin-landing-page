@@ -45,9 +45,18 @@ p {
   gap: 48px;
 }
 
-.hero img {
-  width: 450px;
-  height: 250px;
+.hero div{
+  flex-basis: 50%;
+  flex-grow: 1;
+}
+
+.img-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  flex-basis: 55%;
+  min-height: 150px;
 }
 
 .hero p {
