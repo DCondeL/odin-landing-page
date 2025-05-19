@@ -137,7 +137,7 @@ h1 {
   border-radius: 8px;
 }
 
-.inspire{
+.inspire {
   background-color: #e5e7eb;
   color: #1f2937;
   font-size: 36px;
@@ -151,14 +151,46 @@ h1 {
   padding: 48px 30%;
 }
 
-.inspire div{
+.inspire div {
   align-self: end;
 }
 
-.footer{
+.footer {
   background-color: #1f2937;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 48px;
+}
+
+.call-action {
+  padding: 48px 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-action > div {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-grow: 1;
+  padding: 24px 10%;
+  border-radius: 8px;
+}
+
+.call-action p{
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.call-action button{
+  background-color: #3882f6;
+  border: 2px solid #e5e7eb;
+  color: #e5e7eb;
+  border-radius: 4px;
+  padding: 4px 18px;
+  margin-top: 8px;
 }
