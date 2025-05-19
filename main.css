@@ -153,6 +153,9 @@ h1 {
 
 .inspire div {
   align-self: end;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 18px;
 }
 
 .footer {
