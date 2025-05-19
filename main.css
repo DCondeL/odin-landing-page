@@ -154,3 +154,11 @@ h1 {
 .inspire div{
   align-self: end;
 }
+
+.footer{
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 48px;
+}
