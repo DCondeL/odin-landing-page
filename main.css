@@ -136,3 +136,21 @@ h1 {
   width: 150px;
   border-radius: 8px;
 }
+
+.inspire{
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 30%;
+}
+
+.inspire div{
+  align-self: end;
+}
