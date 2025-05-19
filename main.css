@@ -4,7 +4,7 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  min-height: 100dvh;
 }
 
 ul {
@@ -162,8 +162,8 @@ h1 {
   background-color: #1f2937;
   display: flex;
   justify-content: center;
-  align-items: center;
   padding: 48px;
+  margin-top: auto;
 }
 
 .call-action {
